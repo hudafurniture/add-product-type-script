@@ -1,0 +1,1088 @@
+[ISTK-1]
+MAT=סנדוויץ_לבן_טפ
+R=1
+L=2207
+B=526
+A=2
+REF=עומד_ארון
+BEM2=איסוף_עמודים
+BEM3=לבן
+EDGE1=לבן
+DRAWING=9999-1002
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-1]
+
+[ISTK-2]
+MAT=סנדוויץ_לבן
+R=1
+L=2207
+B=526
+A=1
+REF=עומד_ארון
+BEM2=איסוף_עמודים
+BEM3=לבן
+EDGE1=לבן
+DRAWING=9999-1002>>1138-4m
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-2]
+
+[ISTK-3]
+MAT=סנדוויץ_לבן
+R=1
+L=777
+B=526
+A=4
+REF=קושר_ארון
+BEM2=איסוף_קושרות
+BEM3=לבן
+EDGE1=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-3]
+
+[ISTK-4]
+MAT=סנדוויץ_לבן
+R=1
+L=777
+B=450
+A=5
+REF=מדפים
+BEM=מדפים
+BEM2=איסוף_קושרות
+BEM3=לבן
+EDGE1=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-4]
+
+[ISTK-5]
+MAT=מדפ_לבן
+R=1
+L=1900
+B=393
+A=4
+REF=דלת-190.2
+BEM=0
+BEM2=איסוף_דלתות
+BEM3=לבן
+EDGE1=לבן
+EDGE2=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-5]
+
+[ISTK-6]
+MAT=מדפ_לבן
+R=1
+L=1900
+B=393
+A=0
+REF=דלת_-190.2
+BEM=0
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE2=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-6]
+
+[ISTK-7]
+MAT=סחורה
+R=2
+L=14
+B=788
+A=2
+REF=קערות_לבן
+BEM=ק
+BEM2=מגרות_איסוף
+BEM3=לבן
+EDGE1=לבן
+EDGE2=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT02=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-7]
+
+[ISTK-8]
+MAT=סחורה
+R=2
+L=14
+B=788
+A=2
+REF=קערות_לבן
+BEM=ק
+BEM2=מגרות_איסוף
+BEM3=לבן
+EDGE1=לבן
+EDGE2=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT02=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-8]
+
+[ISTK-9]
+MAT=מדפ_לבן
+R=1
+L=0
+B=393
+A=0
+REF=דלת-0
+BEM=0
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE2=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-9]
+
+[ISTK-10]
+MAT=מדפ_לבן
+R=1
+L=0
+B=393
+A=0
+REF=דלת-0
+BEM=0
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE2=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-10]
+
+[ISTK-11]
+MAT=סחורה
+L=223
+B=79.5
+A=2
+REF=מזונית
+BEM2=איסוף_מזוניות
+BEM3=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-11]
+
+[ISTK-12]
+MAT=מדפ28_לבן
+R=1
+L=1607
+B=550
+A=1
+REF=במה
+BEM2=איסוף_עמודים
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-12]
+
+[ISTK-13]
+MAT=סנדוויץ_לבן_טפ
+R=1
+L=777
+B=90
+A=0
+REF=צוקל
+BEM2=0
+BEM3=לבן
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-13]
+
+[ISTK-14]
+MAT=מדפ28_לבן
+R=1
+L=2415
+B=85
+A=2
+REF=קרניז_גירונג
+EDGE1=לבן
+[ISTK-14]
+
+[ISTK-15]
+MAT=סחורה
+R=1
+L=162
+B=55.5
+A=1
+REF=קרניז_גירונג
+BEM2=איסוף_עמודים
+[ISTK-15]
+
+[ISTK-16]
+MAT=סנדוויץ_לבן
+R=1
+L=718
+B=105
+A=0
+REF=מג40
+BEM2=0
+BEM3=לבן
+EDGE1=22
+EXT02=0
+EXT03=0
+EXT05=לבן
+EXT06=1
+EXT08=ארון_פתיחה _קלאס_160
+[ISTK-16]
+
+[ISTK-17]
+MAT=סחורה
+REF=*******פרזול******
+[ISTK-17]
+
+[ISTK-18]
+MAT=סחורה
+L=1
+B=1
+A=24
+REF=בורג_קושר
+BEM2=פרזול
+[ISTK-18]
+
+[ISTK-19]
+MAT=סחורה
+L=1
+B=1
+A=16
+REF=מדפים
+BEM2=פרזול
+[ISTK-19]
+
+[ISTK-20]
+MAT=סחורה
+L=1
+B=1
+A=6
+REF=רגלי_ניקל
+BEM2=פרזול
+[ISTK-20]
+
+[ISTK-21]
+MAT=סחורה
+L=1
+B=1
+A=24
+REF=בורג18_סיבית
+BEM2=פרזול
+[ISTK-21]
+
+[ISTK-22]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=זווית_צוקל
+BEM2=0
+[ISTK-22]
+
+[ISTK-23]
+MAT=סחורה
+L=1
+B=1
+A=16
+REF=צירים
+BEM2=פרזול
+[ISTK-23]
+
+[ISTK-24]
+MAT=סחורה
+L=1
+B=1
+A=16
+REF=תושבות
+BEM2=פרזול
+[ISTK-24]
+
+[ISTK-25]
+MAT=סחורה
+L=1
+B=1
+A=4
+REF=ידיות_ניקל
+BEM2=פרזול
+[ISTK-25]
+
+[ISTK-26]
+MAT=סחורה
+L=1
+B=1
+A=4
+REF=ידיות_ניקל
+BEM2=פרזול
+[ISTK-26]
+
+[ISTK-27]
+MAT=סחורה
+L=1
+B=1
+A=4
+REF=ברגי_ידיות
+BEM2=פרזול
+[ISTK-27]
+
+[ISTK-28]
+MAT=סחורה
+L=1
+B=1
+A=4
+REF=ברגי_מגירות
+BEM2=פרזול
+[ISTK-28]
+
+[ISTK-29]
+MAT=סחורה
+L=1
+B=1
+A=1
+REF=תליה_77.2
+BEM2=פרזול
+[ISTK-29]
+
+[ISTK$FORM-1]
+MAT==  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבן_טפ" ;mat_g+"_"+mat_out == "מלמין_לבן" ; "מלמין_לבן"  ; IF (  mat_g =="סנדוויץ" ;mat_g+"_"+mat_out ;  IF (  mat_g =="מלמין" ;mat_d+"_"+mat_out ; mat_g+"_"+mat_out) )
+L== IF ( bm == "לא" ; h*10 ; h*10-110+17 )
+B==d*10-24
+BEM2== IF ( PartQty <> 0 ;"איסוף_עמודים" ; 0)
+BEM3==mat_out
+EDGE1==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-1]
+
+[ISTK$FORM-2]
+MAT== mat_g+"_"+mat_in
+L== IF ( bm == "לא" ; h*10 ; h*10-110+17 )
+B==d*10-24
+A==MH
+BEM2== IF ( PartQty <> 0 ;"איסוף_עמודים" ; 0)
+BEM3==mat_out
+EDGE1==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-2]
+
+[ISTK$FORM-3]
+MAT== mat_g+"_"+mat_in
+L==(w*10-32-16* MH )/ (MH +1)
+B==d*10-24
+A== IF ( bm == "לא" ; ( MH+1 ) * 3 ; ( MH + 1 ) * 2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_קושרות" ; 0)
+BEM3==mat_out
+EDGE1==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-3]
+
+[ISTK$FORM-4]
+MAT== mat_g+"_"+mat_in
+L==(w*10-32-16* MH )/ (MH +1)
+B== IF ( d >= 47 And d <=  55 ;460; d *10-50 )-10
+A==4* MH+1+n_madaf
+BEM== IF ( mat_g =="מדפ" ; 0 ; "מדפים" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_קושרות" ; 0)
+BEM3==mat_out
+EDGE1==mat_in
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-4]
+
+[ISTK$FORM-5]
+MAT== IF ( t_d == "0" ; mat_d+"_"+mat_sh1 ; "סחורה" )
+L== IF ( d_68 == 0 ; (h*10-110-(n_mg1*(10*h_mg+4)))-d_68 ; (h*10-110-(n_mg1*(10*h_mg+4)))-d_68-4 )-2
+B== IF ( t_d == 0 ; ((w*10-32-16* MH )/ (MH +1)+11)/2 ; ((w*10-32-16* MH )/ (MH +1)+11)/2 )-1
+A== IF ( n_mg == n_mg1; (MH +1)*2 ;2*MH )
+REF== IF ( t_d == 0 ; "דלת" +"-" + IF ( d_68 == 0 ; (h*10-110-(n_mg1*(10*h_mg+4)))-d_68 ; (h*10-110-(n_mg1*(10*h_mg+4)))-d_68-4 )/10; "דלת" +"_"+ t_d +"-" +  IF ( d_68 == 0 ; (h*10-110-(n_mg1*(10*h_mg+4)))-d_68 ; (h*10-110-(n_mg1*(10*h_mg+4)))-d_68-4 )/10
+BEM== IF ( t_d == "0" ; 0 ;"פרופילים" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_דלתות" ; 0)
+BEM3==mat_out
+EDGE1==mat_out
+EDGE2==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-5]
+
+[ISTK$FORM-6]
+MAT== IF ( t_d == "0" ; mat_d+"_"+mat_sh1 ; "סחורה" )
+L== IF ( d_68 == 0 ; (h*10-110-(n_mg1*(10*h_mg+4)))-d_68 ; (h*10-110-(n_mg1*(10*h_mg+4)))-d_68-4 )-2
+B== IF ( t_d == 0 ; ((w*10-32-16* MH )/ (MH +1)+11)/2 ; ((w*10-32-16* MH )/ (MH +1)+11)/2 )-1
+A== IF ( n_mg == n_mg1 ; 0 ; 2 )
+REF== IF ( t_d == 0 ; "דלת" +"_"+"-" + ( IF ( d1_68 == 0 ; (h*10-110-(n_mg*(10*h_mg+4)))-d1_68 ; (h*10-110-(n_mg*(10*h_mg+4)))-d1_68-4 ))/10  ; "דלת" +"_"+ t_d +"-" + ( IF ( d1_68 == 0 ; (h*10-110-(n_mg*(10*h_mg+4)))-d1_68 ; (h*10-110-(n_mg*(10*h_mg+4)))-d1_68-4 ))/10
+BEM== IF ( PartQty == 0 ; 0 ; IF ( t_d == "0" ; 0 ;"פרופילים" ) )
+BEM2== IF ( PartQty <> 0 ;"איסוף_דלתות" ; 0)
+BEM3==mat_out
+EDGE1==mat_out
+EDGE2==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-6]
+
+[ISTK$FORM-7]
+B== IF ( t_d == 0 ; ((w*10-32-16* MH )/ (MH +1)+11) ; ((w*10-32-16* MH )/ (MH +1)+9)/2 )
+A==n_mg
+REF=="קערות"+"_"+mat_sh
+BEM2==IF ( PartQty == 0 ; 0 ; "מגרות_איסוף" )
+BEM3==mat_out
+EDGE1==mat_out
+EDGE2==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==WA
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-7]
+
+[ISTK$FORM-8]
+B== IF ( t_d == 0 ; ((w*10-32-16* MH )/ (MH +1)+11) ; ((w*10-32-16* MH )/ (MH +1)+9)/2 )
+A== ( n_mg1 )
+REF=="קערות"+"_"+mat_sh
+BEM2==IF ( PartQty == 0 ; 0 ; "מגרות_איסוף" )
+BEM3==mat_out
+EDGE1==mat_out
+EDGE2==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==WA
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-8]
+
+[ISTK$FORM-9]
+MAT== IF ( t_d == "0" ;mat_g_mg+"_"+mat_sh; "סחורה" )
+L==d_68
+B== IF ( t_d == 0 ; ((w*10-32-16* MH )/ (MH +1)+11)/2 ; ((w*10-32-16* MH )/ (MH +1)+11)/2 )-1
+A== IF ( d_68 == 0 ; 0 ; 2)
+REF== IF ( t_d <> 0 ; "דלת" +"-"  + t_d ;"דלת" +"-"  +d_68 )
+BEM== IF ( PartL== 0 ; 0 ; IF ( t_d == "0" ; 0 ;"פרופילים" ) )
+BEM2== IF ( PartQty <> 0 ;"איסוף_דלתות" ; 0)
+BEM3==mat_out
+EDGE1==mat_out
+EDGE2==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-9]
+
+[ISTK$FORM-10]
+MAT== IF ( t_d == "0" ; mat_d+"_"+mat_out ; "סחורה" )
+L==d1_68
+B== IF ( t_d == 0 ; ((w*10-32-16* MH )/ (MH +1)+11)/2 ; ((w*10-32-16* MH )/ (MH +1)+11)/2 )-1
+A== IF ( d1_68 == 0 ; 0 ; 2)
+REF== IF ( t_d <> 0 ; "דלת" +"-"  + t_d ;"דלת" +"-"  +d1_68 )
+BEM== IF (PartL == 0 ; 0 ; IF ( t_d == "0" ; 0 ;"פרופילים" ) )
+BEM2== IF ( PartQty <> 0 ;"איסוף_דלתות" ; 0)
+BEM3==mat_out
+EDGE1==mat_out
+EDGE2==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-10]
+
+[ISTK$FORM-11]
+L== IF ( H == 240 ; (h*10-70)/10 ; IF ( H == 230 ;(h*10-70)/10 ; (h*10-90)/10 )
+B==((w*10-32-16* MH )/ (MH +1)+18)/10
+A== MH + 1
+BEM2== IF ( PartQty <> 0 ;"איסוף_מזוניות" ; 0)
+BEM3==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-11]
+
+[ISTK$FORM-12]
+MAT== IF ( T_BM== "2" ; mat_d+"28_"+mat_out ; IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבן_טפ" ;mat_g+"_"+mat_out == "מלמין_לבן" ; "מלמין_לבן"  ; IF (  mat_g =="סנדוויץ" ;mat_g+"_"+mat_out ;  IF (  mat_g =="מלמין" ;mat_d+"_"+mat_out ; mat_g+"_"+mat_out) ) )
+L==w*10+5
+B==d*10-24+24
+A== IF ( bm == "לא" ; 0 ; 1 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_עמודים" ; 0)
+BEM3==mat_out
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-12]
+
+[ISTK$FORM-13]
+MAT==  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבן_טפ" ;mat_g+"_"+mat_out == "מדפ" ; "מלמין_לבן"  ; IF (  mat_g =="סנדוויץ" ;mat_g+"_"+mat_out ;  IF (  mat_g =="מלמין" ;mat_d+"_"+mat_out ; mat_g+"_"+mat_out) )
+L==(w*10-32-16* MH )/ (MH +1)
+A== IF ( bm == "לא" ; MH +1 ;0 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_קושרות" ; 0)
+BEM3==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-13]
+
+[ISTK$FORM-14]
+MAT== IF ( t_d == "0" ;mat_g_mg+"28_"+mat_sh; "סחורה" )
+A== IF (KARNIZ == "כן" ; 0 ; 2 )
+EDGE1==mat_out
+[ISTK$FORM-14]
+
+[ISTK$FORM-15]
+L== ( w*10+18 ) / 10
+B== ( d*10+5 ) / 10
+A== IF (KARNIZ == "כן" ; 0 ; 1 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_עמודים" ; 0)
+[ISTK$FORM-15]
+
+[ISTK$FORM-16]
+MAT== IF ( ( SHKIT =="לא") ; ( IF ( mat_g <> "סנדוויץ" ; "מדפ_לבן" ; "סנדוויץ_לבן") ; "מדפ_לבן" )
+L== IF ( SHKIT ==1 ; (w*10-32-16* MH )/ (MH +1)-49+2 ; IF ( mat_g == "סנדוויץ" ; ((w*10-32-16* MH )/ (MH +1))-25-33-1 ; ((w*10-32-16* MH )/ (MH +1))-25-33 ) )
+B== IF ( SHKIT ==1 ;93 ; 105 )
+A== IF (KOSHER == 777 ; 0 ;(n_mg+n_mg1)*2  )
+REF== IF ( SHKIT ==1 ; "מג34" ; IF ( d >= 42.9 ;"מג40" ; "מג35" )
+BEM2== IF ( (PartL == 718) Or  (PartL == 719) Or  (PartL == 730); 0 ;  IF ( ( PartQty ) == 0 ; 0 ; "מגרות" ) )
+BEM3==mat_out
+EXT01==PartFRef
+EXT02==hazm
+EXT03==hazm
+EXT05==mat_out
+EXT06==note2
+EXT08==motsar
+EXT12==note1
+[ISTK$FORM-16]
+
+[ISTK$FORM-17]
+[ISTK$FORM-17]
+
+[ISTK$FORM-18]
+A== ( IF ( bm == "לא" ; ( MH+1 ) * 3 ; ( MH + 1 ) * 2 ) ) * 4 + (  IF ( bm == "לא" ; 0 ; 1 ) ) *8
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-18]
+
+[ISTK$FORM-19]
+A== ( 4+n_madaf ) * 4
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-19]
+
+[ISTK$FORM-20]
+A== IF ( bm == "כן" ; ( MH *2 +4 )  ; 0)
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-20]
+
+[ISTK$FORM-21]
+A== ( IF ( bm == "כן" ; ( MH *2 +4 )  ; 0) ) * 4
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-21]
+
+[ISTK$FORM-22]
+A== ( IF ( bm == "לא" ; MH +1 ;0 ) ) * 2
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-22]
+
+[ISTK$FORM-23]
+A== ( ( IF ( n_mg == n_mg1; (MH +1)*2 ;2*MH ) ) * 4 ) + (  IF ( n_mg == n_mg1 ; 0 ; 2 ) ) * 4
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-23]
+
+[ISTK$FORM-24]
+A== ( ( IF ( n_mg == n_mg1; (MH +1)*2 ;2*MH ) ) * 4 ) + (  IF ( n_mg == n_mg1 ; 0 ; 2 ) ) * 4
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-24]
+
+[ISTK$FORM-25]
+A=== ( ( IF ( n_mg == n_mg1; (MH +1)*2 ;2*MH ) ) + (  IF ( n_mg == n_mg1 ; 0 ; 2 ) ) + (  IF ( d_68 == 0 ; 0 ; 2) ) + ( IF ( d1_68 == 0 ; 0 ; 2) ) )
+REF=="ידיות"+"_"+yad
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-25]
+
+[ISTK$FORM-26]
+A== ( n_mg+n_mg1 )
+REF=="ידיות"+"_"+yad_mg
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-26]
+
+[ISTK$FORM-27]
+A=== ( ( IF ( n_mg == n_mg1; (MH +1)*2 ;2*MH ) ) + (  IF ( n_mg == n_mg1 ; 0 ; 2 ) ) + (  IF ( d_68 == 0 ; 0 ; 2) ) + ( IF ( d1_68 == 0 ; 0 ; 2) ) )
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-27]
+
+[ISTK$FORM-28]
+A== ( n_mg+n_mg1 )
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-28]
+
+[ISTK$FORM-29]
+A==n_TL+1
+REF== "תליה"+"_"+( ( (w*10-32-16* MH )/ (MH +1) ) - 5 ) / 10
+BEM2==IF ( PartQty <> "כן" ; "פרזול" ;0 )
+[ISTK$FORM-29]
+
+[ISTKALG]
+VEELVOUD=1
+DATUM=091015
+EXT05=ארון_פתיחה _קלאס_160
+DRAWING=לבן
+[ISTKALG]
+
+[ISTKALG$FORM]
+ALGREF==note1
+VEELVOUD==note2
+EXT03==PartFRef
+EXT04==PartFRef
+EXT05==motsar
+DRAWING==mat_out
+[ISTKALG$FORM]
+
+[VRAGEN-1]
+NAAM=MOT
+VRAAG=קיצור_שם_מוצר
+DEFAULT=קלאס
+[VRAGEN-1]
+
+[VRAGEN-2]
+NAAM=note1
+VRAAG=שם_לקוח
+[VRAGEN-2]
+
+[VRAGEN-3]
+NAAM=note2
+VRAAG=מכפיל
+DEFAULT=1
+[VRAGEN-3]
+
+[VRAGEN-4]
+NAAM=__מידות___
+[VRAGEN-4]
+
+[VRAGEN-5]
+NAAM=MH
+VRAAG=מס_מחיצות?
+TYPE=3
+DEFAULT=1
+[VRAGEN-5]
+
+[VRAGEN-6]
+NAAM=w
+VRAAG=רוחב הארון?
+TYPE=5
+DEFAULT=160.2
+VOORWAARDE=80.9/160.2/239.5
+[VRAGEN-6]
+
+[VRAGEN-7]
+NAAM=h
+VRAAG=גובה הארון?
+TYPE=3
+DEFAULT=230
+[VRAGEN-7]
+
+[VRAGEN-8]
+NAAM=d
+VRAAG=עומק הארון
+TYPE=3
+DEFAULT=55
+[VRAGEN-8]
+
+[VRAGEN-9]
+NAAM=bm
+VRAAG=עם במה ?
+DEFAULT=כן
+VOORWAARDE=כן/לא
+[VRAGEN-9]
+
+[VRAGEN-10]
+NAAM=T_BM
+VRAAG=סוג_במה
+TYPE=3
+DEFAULT=2
+VOORWAARDE=1=16ממ//2=28ממ
+[VRAGEN-10]
+
+[VRAGEN-11]
+NAAM=KARNIZ
+VRAAG=קרניז_גירונג
+TYPE=1
+DEFAULT=1
+VOORWAARDE=כן/לא
+[VRAGEN-11]
+
+[VRAGEN-12]
+NAAM=___חומר____
+[VRAGEN-12]
+
+[VRAGEN-13]
+NAAM=mat_g_num
+VRAAG=סוג_חומר?
+DEFAULT=2
+VOORWAARDE=מדפ=0//1=מלמין//2=סנדוויץ.
+[VRAGEN-13]
+
+[VRAGEN-14]
+NAAM=mat_out
+VRAAG=חומר חוץ?
+DEFAULT=לבן
+[VRAGEN-14]
+
+[VRAGEN-15]
+NAAM=mat_sh1
+VRAAG=שילוב בדלתות
+DEFAULT=לבן
+[VRAGEN-15]
+
+[VRAGEN-16]
+NAAM=mat_sh
+VRAAG=שילוב במגירות
+DEFAULT=לבן
+[VRAGEN-16]
+
+[VRAGEN-17]
+NAAM=n_madaf
+VRAAG=        ?תוספת מדפים
+TYPE=3
+DEFAULT=0
+[VRAGEN-17]
+
+[VRAGEN-18]
+NAAM=___מגירות___
+[VRAGEN-18]
+
+[VRAGEN-19]
+NAAM=SHKIT
+VRAAG=מג ט.שקטה??
+TYPE=1
+VOORWAARDE=0=לא//
+[VRAGEN-19]
+
+[VRAGEN-20]
+NAAM=n_mg
+VRAAG=מגירות צד 1?
+TYPE=3
+DEFAULT=2
+[VRAGEN-20]
+
+[VRAGEN-21]
+NAAM=n_mg1
+VRAAG=.
+TYPE=3
+DEFAULT=2
+[VRAGEN-21]
+
+[VRAGEN-22]
+NAAM=t_d
+VRAAG=סוג דלתות?
+DEFAULT=0
+VOORWAARDE=...0/שטוח/עגול
+[VRAGEN-22]
+
+[VRAGEN-23]
+NAAM=h_mg
+VRAAG=גובה המגירה
+TYPE=5
+DEFAULT=14
+[VRAGEN-23]
+
+[VRAGEN-24]
+NAAM=d_68
+VRAAG=דלת_68.6_צדדים?
+DEFAULT=0
+[VRAGEN-24]
+
+[VRAGEN-25]
+NAAM=d1_68
+VRAAG=דלת_68.6_אמצע?
+DEFAULT=0
+[VRAGEN-25]
+
+[VRAGEN-26]
+NAAM=motsar
+VRAAG=שם מוצר??
+DEFAULT=ארון_פתיחה _קלאס_160
+[VRAGEN-26]
+
+[VRAGEN-27]
+NAAM=__סוג_חומר___
+[VRAGEN-27]
+
+[VRAGEN-28]
+NAAM=mat_g
+VRAAG=סוג החומר?
+DEFAULT=סנדוויץ
+[VRAGEN-28]
+
+[VRAGEN-29]
+NAAM=mat_d
+VRAAG=חומר_דלתות?
+DEFAULT=מדפ
+[VRAGEN-29]
+
+[VRAGEN-30]
+NAAM=mat_g_mg
+VRAAG=חומר_מגרות
+DEFAULT=מדפ
+[VRAGEN-30]
+
+[VRAGEN-31]
+NAAM=mat_in
+VRAAG=חומר פנים?
+DEFAULT=לבן
+[VRAGEN-31]
+
+[VRAGEN-32]
+NAAM=n_TL
+VRAAG=תוספת_תליה
+TYPE=3
+[VRAGEN-32]
+
+[VRAGEN-33]
+NAAM=hazm
+VRAAG=מס" הזמנה ??
+TYPE=5
+[VRAGEN-33]
+
+[VRAGEN-34]
+NAAM=yad
+VRAAG=ידית_דלת
+DEFAULT=ניקל
+[VRAGEN-34]
+
+[VRAGEN-35]
+NAAM=yad_mg
+VRAAG=ידית_מגרות
+DEFAULT=ניקל
+[VRAGEN-35]
+
+[VRAGEN-36]
+NAAM=KOSHER
+VRAAG=אורך קושר
+DEFAULT=777
+[VRAGEN-36]
+
+[VRAGEN$FORM-1]
+[VRAGEN$FORM-1]
+
+[VRAGEN$FORM-2]
+[VRAGEN$FORM-2]
+
+[VRAGEN$FORM-3]
+[VRAGEN$FORM-3]
+
+[VRAGEN$FORM-4]
+[VRAGEN$FORM-4]
+
+[VRAGEN$FORM-5]
+[VRAGEN$FORM-5]
+
+[VRAGEN$FORM-6]
+[VRAGEN$FORM-6]
+
+[VRAGEN$FORM-7]
+[VRAGEN$FORM-7]
+
+[VRAGEN$FORM-8]
+[VRAGEN$FORM-8]
+
+[VRAGEN$FORM-9]
+[VRAGEN$FORM-9]
+
+[VRAGEN$FORM-10]
+[VRAGEN$FORM-10]
+
+[VRAGEN$FORM-11]
+[VRAGEN$FORM-11]
+
+[VRAGEN$FORM-12]
+[VRAGEN$FORM-12]
+
+[VRAGEN$FORM-13]
+[VRAGEN$FORM-13]
+
+[VRAGEN$FORM-14]
+[VRAGEN$FORM-14]
+
+[VRAGEN$FORM-15]
+DEFAULT==mat_out
+[VRAGEN$FORM-15]
+
+[VRAGEN$FORM-16]
+DEFAULT==mat_out
+[VRAGEN$FORM-16]
+
+[VRAGEN$FORM-17]
+[VRAGEN$FORM-17]
+
+[VRAGEN$FORM-18]
+[VRAGEN$FORM-18]
+
+[VRAGEN$FORM-19]
+[VRAGEN$FORM-19]
+
+[VRAGEN$FORM-20]
+[VRAGEN$FORM-20]
+
+[VRAGEN$FORM-21]
+[VRAGEN$FORM-21]
+
+[VRAGEN$FORM-22]
+[VRAGEN$FORM-22]
+
+[VRAGEN$FORM-23]
+[VRAGEN$FORM-23]
+
+[VRAGEN$FORM-24]
+[VRAGEN$FORM-24]
+
+[VRAGEN$FORM-25]
+[VRAGEN$FORM-25]
+
+[VRAGEN$FORM-26]
+DEFAULT=="ארון_פתיחה "+"_"+MOT+"_"+INT(w)
+[VRAGEN$FORM-26]
+
+[VRAGEN$FORM-27]
+[VRAGEN$FORM-27]
+
+[VRAGEN$FORM-28]
+DEFAULT== IF ( mat_g_num == "0" ; "מלמין" ;  (IF ( mat_g_num == "1" ; "מדפ" ; "סנדוויץ" )  ) )
+[VRAGEN$FORM-28]
+
+[VRAGEN$FORM-29]
+[VRAGEN$FORM-29]
+
+[VRAGEN$FORM-30]
+DEFAULT==mat_d
+[VRAGEN$FORM-30]
+
+[VRAGEN$FORM-31]
+DEFAULT== IF ( mat_g == "מדפ" ;  "לבן" ;  "לבן" )
+[VRAGEN$FORM-31]
+
+[VRAGEN$FORM-32]
+[VRAGEN$FORM-32]
+
+[VRAGEN$FORM-33]
+[VRAGEN$FORM-33]
+
+[VRAGEN$FORM-34]
+[VRAGEN$FORM-34]
+
+[VRAGEN$FORM-35]
+[VRAGEN$FORM-35]
+
+[VRAGEN$FORM-36]
+DEFAULT==(w*10-32-16* MH )/ (MH +1)
+[VRAGEN$FORM-36]

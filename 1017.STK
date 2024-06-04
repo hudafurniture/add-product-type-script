@@ -1,0 +1,3116 @@
+[ISTK-1]
+MAT=מדפ_לבן
+R=1
+L=1700
+B=595
+A=1
+REF=ראש_ענבל_8005_611
+BEM2=איסוף_מיטות
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-1]
+
+[ISTK-2]
+MAT=מדפ28_לבן
+R=1
+L=1700
+B=100
+A=1
+REF=ראש_ענבל_8005_611
+EDGE1=2
+EDGE3=2
+EDGE4=2
+EXT17=7.1
+[ISTK-2]
+
+[ISTK-3]
+MAT=מדפ28_לבן
+R=1
+L=900
+B=100
+A=2
+REF=ראש_ענבל_8005_611
+EDGE1=22
+EDGE2=22
+EXT17=7.1
+[ISTK-3]
+
+[ISTK-4]
+MAT=מדפ28_לבן
+R=1
+L=1670
+B=235
+A=1
+REF=חזית_ענבל
+BEM2=איסוף_מיטות
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-4]
+
+[ISTK-5]
+MAT=מדפ_611
+R=1
+L=836.5
+B=150
+A=2
+REF=ראש_ענבל_611
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.1
+[ISTK-5]
+
+[ISTK-6]
+MAT=מדפ_8005
+R=1
+L=836.5
+B=150
+A=2
+REF=ראש_ענבל_8005
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.1
+[ISTK-6]
+
+[ISTK-7]
+MAT=מדפ_לבן
+R=1
+L=836.5
+B=150
+A=2
+REF=ראש_ענבל_8005
+EDGE1=לבן
+EDGE2=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-7]
+
+[ISTK-8]
+MAT=מדפ28_לבן
+R=1
+L=1910
+B=230
+A=2
+REF=צרגות
+BEM2=איסוף_מיטות
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-8]
+
+[ISTK-9]
+MAT=סחורה
+L=1
+B=1
+A=1
+REF=משטח190_160
+BEM=משטח
+BEM2=איסוף_משטחים
+[ISTK-9]
+
+[ISTK-10]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=0
+[ISTK-10]
+
+[ISTK-11]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=0
+[ISTK-11]
+
+[ISTK-12]
+MAT=סחורה
+L=1
+B=1
+A=5
+REF=רגל_מיטה
+[ISTK-12]
+
+[ISTK-13]
+MAT=סחורה
+L=1
+B=1
+A=20
+REF=בורג35_ר_מיטה
+[ISTK-13]
+
+[ISTK-14]
+MAT=סחורה
+L=1
+B=1
+A=5
+REF=בורג35_מחבר
+[ISTK-14]
+
+[ISTK-15]
+MAT=סחורה
+L=1
+B=1
+A=1
+REF=מחבר_מיטה
+[ISTK-15]
+
+[ISTK-16]
+MAT=סחורה
+L=1
+B=1
+A=32
+REF=בורג25_מחבר
+[ISTK-16]
+
+[ISTK-17]
+MAT=סחורה
+L=1
+B=1
+A=4
+REF=ידיות_1
+[ISTK-17]
+
+[ISTK-18]
+MAT=סחורה
+L=1
+B=1
+A=4
+REF=בורג_סיבית40
+[ISTK-18]
+
+[ISTK-19]
+MAT=סחורה
+L=1
+B=1
+A=8
+REF=ידיות_2
+[ISTK-19]
+
+[ISTK-20]
+MAT=סחורה
+L=1
+B=1
+A=16
+REF=בורג_סיבית40
+[ISTK-20]
+
+[ISTK-21]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=אום_מתרומם
+[ISTK-21]
+
+[ISTK-22]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=בוכנות_מתרומם150
+[ISTK-22]
+
+[ISTK-23]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=חבל_תריס
+[ISTK-23]
+
+[ISTK-24]
+MAT=מדפ28_לבן
+R=1
+L=497
+B=398
+A=4
+REF=עליון_ענבל
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=3
+[ISTK-24]
+
+[ISTK-25]
+MAT=מדפ28_לבן
+R=1
+L=320
+B=395
+A=2
+REF=צד_ענבל
+BEM3=לבן
+EDGE1=לבן
+EXT17=3
+[ISTK-25]
+
+[ISTK-26]
+MAT=מדפ_611
+L=320
+B=377
+A=2
+REF=צד_ענבל
+BEM3=לבן
+EDGE1=611
+EXT17=3
+[ISTK-26]
+
+[ISTK-27]
+MAT=מדפ28_לבן
+L=435
+B=120
+A=0
+REF=תחתון_ענבל
+BEM3=לבן
+EDGE1=לבן
+EXT17=3
+[ISTK-27]
+
+[ISTK-28]
+MAT=מדפ_611
+R=1
+L=445
+B=140
+A=2
+REF=מגירה_ענבל
+BEM3=לבן
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.4
+[ISTK-28]
+
+[ISTK-29]
+MAT=מדפ_8005
+R=1
+L=445
+B=170
+A=2
+REF=מגירה_ענבל
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.4
+[ISTK-29]
+
+[ISTK-30]
+MAT=מדפ_לבן
+L=378
+B=105
+A=8
+REF=מג35
+VOORR=8
+BEM3=לבן
+EDGE1=22
+EXT17=7.4
+[ISTK-30]
+
+[ISTK-31]
+MAT=מדפ28_לבן
+R=1
+L=497
+B=398
+A=0
+REF=עליון_גברי_ענבל
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=3
+[ISTK-31]
+
+[ISTK-32]
+MAT=מדפ28_לבן
+R=1
+L=497
+B=398
+A=0
+REF=תחתון_גברי_ענבל
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=3
+[ISTK-32]
+
+[ISTK-33]
+MAT=מדפ_611
+R=1
+L=839
+B=377
+A=0
+REF=צד_ענבל
+BEM3=לבן
+EDGE1=611
+EXT17=3
+[ISTK-33]
+
+[ISTK-34]
+MAT=מדפ28_לבן
+R=1
+L=839
+B=395
+A=0
+REF=צד_ענבל
+BEM3=לבן
+EDGE1=לבן
+EXT17=3
+[ISTK-34]
+
+[ISTK-35]
+MAT=מדפ28_לבן
+L=435
+B=120
+A=0
+REF=תחתון_ענבל
+BEM3=לבן
+EDGE1=לבן
+EXT17=3
+[ISTK-35]
+
+[ISTK-36]
+MAT=מדפ_611
+R=1
+L=445
+B=140
+A=0
+REF=מגירה_ענבל
+BEM3=לבן
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.4
+[ISTK-36]
+
+[ISTK-37]
+MAT=מדפ_8005
+R=1
+L=445
+B=170
+A=0
+REF=מגירה_ענבל
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.4
+[ISTK-37]
+
+[ISTK-38]
+MAT=מדפ_לבן
+L=378
+B=105
+A=0
+REF=מג35
+BEM3=לבן
+EDGE1=22
+EXT17=7.4
+[ISTK-38]
+
+[ISTK-39]
+MAT=מדפ28_לבן
+R=1
+L=837
+B=398
+A=2
+REF=עליון_ענבל
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=3
+[ISTK-39]
+
+[ISTK-40]
+MAT=מדפ_611
+R=1
+L=666
+B=377
+A=1
+REF=צד_ענבל
+BEM3=לבן
+EDGE1=611
+EXT17=3
+[ISTK-40]
+
+[ISTK-41]
+MAT=מדפ28_לבן
+R=1
+L=666
+B=395
+A=1
+REF=צד_ענבל
+BEM3=לבן
+EDGE1=לבן
+EXT17=3
+[ISTK-41]
+
+[ISTK-42]
+MAT=מדפ28_לבן
+R=0
+L=775
+B=120
+A=0
+REF=תחתון_ענבל
+BEM3=לבן
+EDGE1=לבן
+EXT17=3
+[ISTK-42]
+
+[ISTK-43]
+MAT=מדפ_611
+R=1
+L=785
+B=140
+A=1
+REF=מגירה_ענבל
+BEM3=לבן
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.4
+[ISTK-43]
+
+[ISTK-44]
+MAT=מדפ_8005
+R=1
+L=785
+B=170
+A=3
+REF=מגירה_ענבל
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.4
+[ISTK-44]
+
+[ISTK-45]
+MAT=מדפ_לבן
+L=718
+B=105
+A=8
+REF=מג35
+VOORR=8
+BEM3=לבן
+EDGE1=22
+EXT17=7.4
+[ISTK-45]
+
+[ISTK-46]
+MAT=מדפ_8005
+R=1
+L=600
+B=100
+A=2
+REF=מראה_ענבל
+BEM3=לבן
+EDGE1=8005
+EDGE2=22
+EDGE3=8005
+EDGE4=8005
+EXT17=7.2
+[ISTK-46]
+
+[ISTK-47]
+MAT=מדפ_8005
+R=1
+L=950
+B=100
+A=2
+REF=מראה_ענבל
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.2
+[ISTK-47]
+
+[ISTK-48]
+MAT=סחורה
+L=1
+B=1
+A=1
+REF=טואליט_ענבל_רגיל
+BEM2=איסוף_קומודות
+BEM3=לבן
+[ISTK-48]
+
+[ISTK-49]
+MAT=סחורה
+L=1
+B=1
+A=1
+REF=מראה_ענבל_95
+BEM2=איסוף_מיטות
+BEM3=לבן
+[ISTK-49]
+
+[ISTK-50]
+MAT=סחורה
+L=1
+B=1
+A=2
+REF=שידה_ענבל
+BEM2=איסוף_קומודות
+BEM3=לבן
+[ISTK-50]
+
+[ISTK-51]
+REF=*************
+[ISTK-51]
+
+[ISTK-52]
+REF=***הפרדה1***
+[ISTK-52]
+
+[ISTK-53]
+MAT=מדפ_לבן
+R=1
+L=1700
+B=790
+A=0
+REF=ראש_ענבל_8005_611
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-53]
+
+[ISTK-54]
+MAT=מדפ28_לבן
+R=1
+L=1700
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=2
+EDGE3=2
+EDGE4=2
+EXT17=7.1
+[ISTK-54]
+
+[ISTK-55]
+MAT=מדפ28_לבן
+R=1
+L=900
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=22
+EXT17=7.1
+[ISTK-55]
+
+[ISTK-56]
+MAT=מדפ28_לבן
+R=1
+L=1670
+B=395
+A=0
+REF=חזית_ענבל
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-56]
+
+[ISTK-57]
+MAT=מדפ_611
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_611
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.1
+[ISTK-57]
+
+[ISTK-58]
+MAT=מדפ_8005
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_8005
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.1
+[ISTK-58]
+
+[ISTK-59]
+MAT=מדפ28_לבן
+L=1910
+B=180
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-59]
+
+[ISTK-60]
+MAT=מדפ28_לבן
+L=1910
+B=85
+A=0
+REF=צרגות
+BEM2=0
+EDGE1=לבן
+EXT17=7.1
+[ISTK-60]
+
+[ISTK-61]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=משטח190_160
+BEM=משטח
+BEM2=0
+[ISTK-61]
+
+[ISTK-62]
+REF=**הפרדה2**
+[ISTK-62]
+
+[ISTK-63]
+MAT=מדפ_לבן
+R=1
+L=1700
+B=1000
+A=0
+REF=ראש_ענבל_8005_611
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-63]
+
+[ISTK-64]
+MAT=מדפ28_לבן
+R=1
+L=1700
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=2
+EDGE3=2
+EDGE4=2
+EXT17=7.1
+[ISTK-64]
+
+[ISTK-65]
+MAT=מדפ28_לבן
+R=1
+L=900
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=22
+EXT17=7.1
+[ISTK-65]
+
+[ISTK-66]
+MAT=מדפ28_לבן
+R=1
+L=830
+B=395
+A=0
+REF=חזית_ענבל
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-66]
+
+[ISTK-67]
+MAT=מדפ_611
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_611
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.1
+[ISTK-67]
+
+[ISTK-68]
+MAT=מדפ_8005
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_8005
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.1
+[ISTK-68]
+
+[ISTK-69]
+MAT=מדפ28_לבן
+L=1910
+B=180
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-69]
+
+[ISTK-70]
+MAT=מדפ28_לבן
+L=1910
+B=85
+A=0
+REF=צרגות
+BEM2=0
+EDGE1=לבן
+EXT17=7.1
+[ISTK-70]
+
+[ISTK-71]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=משטח190_160
+BEM=משטח
+BEM2=0
+[ISTK-71]
+
+[ISTK-72]
+REF=***הפרדה3***
+[ISTK-72]
+
+[ISTK-73]
+MAT=מדפ_לבן
+R=1
+L=850
+B=1000
+A=0
+REF=ראש_ענבל_8005_611
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-73]
+
+[ISTK-74]
+MAT=מדפ28_לבן
+R=1
+L=850
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=2
+EDGE3=2
+EDGE4=2
+EXT17=7.1
+[ISTK-74]
+
+[ISTK-75]
+MAT=מדפ28_לבן
+R=1
+L=900
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=22
+EXT17=7.1
+[ISTK-75]
+
+[ISTK-76]
+MAT=מדפ28_לבן
+R=1
+L=830
+B=395
+A=0
+REF=חזית_ענבל
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-76]
+
+[ISTK-77]
+MAT=מדפ_611
+R=1
+L=822.5
+B=170
+A=0
+REF=ראש_ענבל_611
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.1
+[ISTK-77]
+
+[ISTK-78]
+MAT=מדפ_8005
+R=1
+L=822.5
+B=170
+A=0
+REF=ראש_ענבל_8005
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.1
+[ISTK-78]
+
+[ISTK-79]
+MAT=מדפ28_לבן
+L=1910
+B=180
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-79]
+
+[ISTK-80]
+MAT=מדפ28_לבן
+L=1910
+B=85
+A=0
+REF=צרגות
+BEM2=0
+EDGE1=לבן
+EXT17=7.1
+[ISTK-80]
+
+[ISTK-81]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=משטח190_160
+BEM=משטח
+BEM2=0
+EXT17=7.1
+[ISTK-81]
+
+[ISTK-82]
+REF=הפרדה444444
+[ISTK-82]
+
+[ISTK-83]
+REF=*************
+[ISTK-83]
+
+[ISTK-84]
+MAT=מדפ_לבן
+R=1
+L=1700
+B=790
+A=0
+REF=ראש_ענבל_8005
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-84]
+
+[ISTK-85]
+MAT=מדפ28_לבן
+R=1
+L=1700
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=2
+EDGE3=2
+EDGE4=2
+EXT17=7.1
+[ISTK-85]
+
+[ISTK-86]
+MAT=מדפ28_לבן
+R=1
+L=900
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=22
+EXT17=7.1
+[ISTK-86]
+
+[ISTK-87]
+MAT=מדפ_611
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_611
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.1
+[ISTK-87]
+
+[ISTK-88]
+MAT=מדפ_8005
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_8005
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.1
+[ISTK-88]
+
+[ISTK-89]
+MAT=מדפ28_לבן
+R=1
+L=1670
+B=395
+A=0
+REF=חזית_ענבל_8005
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-89]
+
+[ISTK-90]
+MAT=מדפ_לבן
+L=1920
+B=295
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-90]
+
+[ISTK-91]
+MAT=מדפ_לבן
+L=1920
+B=250
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-91]
+
+[ISTK-92]
+MAT=סנדוויץ_לבן
+L=1886
+B=192
+A=0
+REF=צד_משטח
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-92]
+
+[ISTK-93]
+MAT=סנדוויץ_לבן
+L=782
+B=192
+A=0
+REF=צד_משטח
+BEM3=לבן
+EDGE1=22
+EDGE3=22
+EDGE4=22
+EXT17=7.1
+[ISTK-93]
+
+[ISTK-94]
+MAT=סנדוויץ_לבן
+L=1920
+B=782
+A=0
+REF=תחתון
+BEM3=לבן
+EDGE1=22
+EDGE2=2
+EDGE3=22
+EXT17=7.1
+[ISTK-94]
+
+[ISTK-95]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=משטח_4הפרדה_190_78
+BEM2=0
+BEM3=לבן
+[ISTK-95]
+
+[ISTK-96]
+REF=*************
+[ISTK-96]
+
+[ISTK-97]
+REF=הפרדה555555
+[ISTK-97]
+
+[ISTK-98]
+REF=*************
+[ISTK-98]
+
+[ISTK-99]
+MAT=מדפ_לבן
+R=1
+L=1700
+B=790
+A=0
+REF=ראש_ענבל_8005
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-99]
+
+[ISTK-100]
+MAT=מדפ28_לבן
+R=1
+L=1700
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=2
+EDGE3=2
+EDGE4=2
+EXT17=7.1
+[ISTK-100]
+
+[ISTK-101]
+MAT=מדפ28_לבן
+R=1
+L=900
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=22
+EXT17=7.1
+[ISTK-101]
+
+[ISTK-102]
+MAT=מדפ_611
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_611
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.1
+[ISTK-102]
+
+[ISTK-103]
+MAT=מדפ_8005
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_8005
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.1
+[ISTK-103]
+
+[ISTK-104]
+MAT=מדפ28_לבן
+R=1
+L=830
+B=395
+A=0
+REF=חזית_ענבל_8005
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-104]
+
+[ISTK-105]
+MAT=מדפ_לבן
+L=1920
+B=295
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-105]
+
+[ISTK-106]
+MAT=מדפ_לבן
+L=1920
+B=250
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-106]
+
+[ISTK-107]
+MAT=סנדוויץ_לבן
+L=1886
+B=192
+A=0
+REF=צד_משטח
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-107]
+
+[ISTK-108]
+MAT=סנדוויץ_לבן
+L=782
+B=192
+A=0
+REF=צד_משטח
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-108]
+
+[ISTK-109]
+MAT=סנדוויץ_לבן
+L=1920
+B=782
+A=0
+REF=תחתון
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-109]
+
+[ISTK-110]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=משטח_5הפרדה_190_78
+BEM2=0
+BEM3=לבן
+EXT17=7.1
+[ISTK-110]
+
+[ISTK-111]
+REF=*************
+[ISTK-111]
+
+[ISTK-112]
+REF=הפרדה666666
+[ISTK-112]
+
+[ISTK-113]
+REF=*************
+[ISTK-113]
+
+[ISTK-114]
+MAT=מדפ_לבן
+R=1
+L=850
+B=790
+A=0
+REF=ראש_ענבל_8005
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-114]
+
+[ISTK-115]
+MAT=מדפ28_לבן
+R=1
+L=850
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=2
+EDGE3=2
+EDGE4=2
+EXT17=7.1
+[ISTK-115]
+
+[ISTK-116]
+MAT=מדפ28_לבן
+R=1
+L=900
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=22
+EXT17=7.1
+[ISTK-116]
+
+[ISTK-117]
+MAT=מדפ_611
+R=1
+L=822.5
+B=170
+A=0
+REF=ראש_ענבל_611
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.1
+[ISTK-117]
+
+[ISTK-118]
+MAT=מדפ_8005
+R=1
+L=822.5
+B=170
+A=0
+REF=ראש_ענבל_8005
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.1
+[ISTK-118]
+
+[ISTK-119]
+MAT=מדפ28_לבן
+R=1
+L=830
+B=395
+A=0
+REF=חזית_ענבל_8005
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-119]
+
+[ISTK-120]
+MAT=מדפ_לבן
+L=1920
+B=295
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-120]
+
+[ISTK-121]
+MAT=מדפ_לבן
+L=1920
+B=250
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-121]
+
+[ISTK-122]
+MAT=סנדוויץ_לבן
+L=1886
+B=192
+A=0
+REF=צד_משטח
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-122]
+
+[ISTK-123]
+MAT=סנדוויץ_לבן
+L=782
+B=192
+A=0
+REF=צד_משטח
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-123]
+
+[ISTK-124]
+MAT=סנדוויץ_לבן
+L=1920
+B=782
+A=0
+REF=תחתון
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-124]
+
+[ISTK-125]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=משטח_5הפרדה_190_78
+BEM2=0
+BEM3=לבן
+EXT17=7.1
+[ISTK-125]
+
+[ISTK-126]
+REF=***
+[ISTK-126]
+
+[ISTK-127]
+REF=הפרדה7777
+[ISTK-127]
+
+[ISTK-128]
+REF=*************
+[ISTK-128]
+
+[ISTK-129]
+MAT=מדפ_לבן
+R=1
+L=850
+B=790
+A=0
+REF=ראש_ענבל_8005
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-129]
+
+[ISTK-130]
+MAT=מדפ28_לבן
+R=1
+L=850
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=2
+EDGE3=2
+EDGE4=2
+EXT17=7.1
+[ISTK-130]
+
+[ISTK-131]
+MAT=מדפ28_לבן
+R=1
+L=900
+B=100
+A=0
+REF=ראש_ענבל_8005_611
+EDGE1=22
+EXT17=7.1
+[ISTK-131]
+
+[ISTK-132]
+MAT=מדפ_611
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_611
+EDGE1=611
+EDGE2=611
+EDGE3=611
+EDGE4=611
+EXT17=7.1
+[ISTK-132]
+
+[ISTK-133]
+MAT=מדפ_8005
+R=1
+L=836.5
+B=170
+A=0
+REF=ראש_ענבל_8005
+BEM3=לבן
+EDGE1=8005
+EDGE2=8005
+EDGE3=8005
+EDGE4=8005
+EXT17=7.1
+[ISTK-133]
+
+[ISTK-134]
+MAT=מדפ28_לבן
+R=1
+L=830
+B=395
+A=0
+REF=חזית_ענבל_8005
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EDGE3=לבן
+EDGE4=לבן
+EXT17=7.1
+[ISTK-134]
+
+[ISTK-135]
+MAT=מדפ_לבן
+L=1920
+B=295
+A=0
+REF=צרגות
+BEM2=0
+BEM3=לבן
+EDGE1=לבן
+EXT17=7.1
+[ISTK-135]
+
+[ISTK-136]
+MAT=סנדוויץ_לבן
+L=1886
+B=192
+A=0
+REF=צד_משטח
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-136]
+
+[ISTK-137]
+MAT=סנדוויץ_לבן
+L=805
+B=192
+A=0
+REF=צד_משטח
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-137]
+
+[ISTK-138]
+MAT=סנדוויץ_לבן
+L=1920
+B=805
+A=0
+REF=תחתון
+BEM3=לבן
+EDGE1=22
+EXT17=7.1
+[ISTK-138]
+
+[ISTK-139]
+MAT=סחורה
+L=1
+B=1
+A=0
+REF=משטח_6הפרדה_190_80
+BEM2=0
+BEM3=לבן
+EXT17=7.1
+[ISTK-139]
+
+[ISTK$FORM-1]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L==W_M*10+100
+B== IF ( TM == "מתרומם" ; H_M*10 ; H_M*10-405)
+A== IF ( HF == "0" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-1]
+
+[ISTK$FORM-2]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_M*10+100
+A== IF ( HF == "0" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-2]
+
+[ISTK$FORM-3]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==H_M*10-100
+A== IF ( HF == "0" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-3]
+
+[ISTK$FORM-4]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_M*10+55+10+5
+B== IF ( TM == "מתרומם" ;10*H_M1-6-99 +100; 10*H_M1-105-110+50)
+A== IF ( HF == "0" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "חזית_"+T )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-4]
+
+[ISTK$FORM-5]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "0" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-5]
+
+[ISTK$FORM-6]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "0" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+BEM3==mat_out
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-6]
+
+[ISTK$FORM-7]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "0" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+EDGE1==mat_out
+EDGE2==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-7]
+
+[ISTK$FORM-8]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+10)
+B== IF ( TM == "מתרומם" ;295 ; 230)
+A== IF ( HF == "0" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-8]
+
+[ISTK$FORM-9]
+A== IF ( HF == "0" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_משטח"+D_M +"_"+ W_M ; "משטח"+D_M +"_"+ W_M )
+BEM2== IF ( PartQty <> 0 ;"איסוף_משטחים" ; 0)
+[ISTK$FORM-9]
+
+[ISTK$FORM-10]
+A=== IF ( TM == "מתרומם" ; 2 ;0 )
+REF== IF ( TM == "מתרומם" ; "מתרומם_מזונית"+D_M +"_"+ W_M/2 ;0 )
+[ISTK$FORM-10]
+
+[ISTK$FORM-11]
+A=== IF ( TM == "מתרומם" ; 2 ;0 )
+REF== IF ( TM == "מתרומם" ; "ליסטים_מתרומם" ;0 )
+[ISTK$FORM-11]
+
+[ISTK$FORM-12]
+A== IF ( TM == "מתרומם" ; 0 ; ( IF ( HF  == 0 ; 5 ; 0 ) ) )
+[ISTK$FORM-12]
+
+[ISTK$FORM-13]
+A== IF ( TM == "מתרומם" ; 0 ; ( IF ( HF  == 0 ; 20 ; 0) ) )
+[ISTK$FORM-13]
+
+[ISTK$FORM-14]
+[ISTK$FORM-14]
+
+[ISTK$FORM-15]
+A== IF ( TM == "מתרומם" ; 1 ; ( IF ( HF  == 0 ; 1 ; 0) ) )
+[ISTK$FORM-15]
+
+[ISTK$FORM-16]
+A== IF ( TM == "מתרומם" ; 32 ; ( IF ( HF  == 0 ; 32 ; 0) ) )
+[ISTK$FORM-16]
+
+[ISTK$FORM-17]
+A==NMG_S1*2 +  IF ( T_KO == "יפאני" ; NMG_S2 ; 0 )
+REF=="ידיות"+"_"+YAD
+[ISTK$FORM-17]
+
+[ISTK$FORM-18]
+A==NMG_S1*2 +  IF ( T_KO == "יפאני" ; NMG_S2 ; 0 )
+[ISTK$FORM-18]
+
+[ISTK$FORM-19]
+A== IF ( W_K >= 80 ; NMG_K * 2 ; NMG_K )
+REF=="ידיות"+"_"+YAD1
+[ISTK$FORM-19]
+
+[ISTK$FORM-20]
+A== ( IF ( W_K >= 80 ; NMG_K * 2 ; NMG_K ) ) * 2
+[ISTK$FORM-20]
+
+[ISTK$FORM-21]
+A== IF ( TM == "מתרומם" ; 4 ; 0 )
+[ISTK$FORM-21]
+
+[ISTK$FORM-22]
+A== IF ( TM == "מתרומם" ; 2 ; 0 )
+REF== IF ( W_M >= 120 ; "בוכנות_מתרומם150" ; "בוכנות_מתרומם90" )
+[ISTK$FORM-22]
+
+[ISTK$FORM-23]
+A== IF ( TM == "מתרומם" ; 1 ; 0 )
+[ISTK$FORM-23]
+
+[ISTK$FORM-24]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_S1*10-3
+B==D_S1*10 -2
+A== IF ( BM == "כן" ; 4 ; 2 )
+REF=="עליון"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+EDGE3==PartFDrawing
+EDGE4==PartFDrawing
+[ISTK$FORM-24]
+
+[ISTK$FORM-25]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== ( IF ( BM == "כן" ; NMG_S1 * (HMG_S1*10+3)+4 ;NMG_S1 * (HMG_S1*10+3)+80+3+27 ) ) - 30
+B==D_S1*10 -5
+REF=="צד"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+[ISTK$FORM-25]
+
+[ISTK$FORM-26]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh) )
+L== ( IF ( BM == "כן" ; NMG_S1 * (HMG_S1*10+3)+4 ;NMG_S1 * (HMG_S1*10+3)+80+3+27 ) ) - 30
+B==D_S1*10 -5-18
+REF=="צד"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh
+[ISTK$FORM-26]
+
+[ISTK$FORM-27]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_S1*10-3-62
+A== IF ( BM == "כן" ; 0 ; 2 )
+REF=="תחתון"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+[ISTK$FORM-27]
+
+[ISTK$FORM-28]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh) )
+L==W_S1*10-3-67+15
+B==HMG_S1*10-30
+A== ( NMG_S1-NMG_S1+1 ) * 2
+REF=="מגירה"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-28]
+
+[ISTK$FORM-29]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L==W_S1*10-3-67+15
+B==HMG_S1*10
+A== ( NMG_S1-1 ) * 2
+REF=="מגירה"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-29]
+
+[ISTK$FORM-30]
+L==W_S1*10-3-62-25-32
+A==NMG_S1*2*2
+BEM3==PartFDrawing
+[ISTK$FORM-30]
+
+[ISTK$FORM-31]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_S2*10-3
+B==D_S2*10-2
+A== IF ( T_KO == "יפאני" ; 1; 0 )
+REF=="עליון_גברי"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+EDGE3==PartFDrawing
+EDGE4==PartFDrawing
+[ISTK$FORM-31]
+
+[ISTK$FORM-32]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_S2*10-3
+B==D_S2*10-2
+A== IF ( BM  == "כן" ;  IF ( T_KO == "יפאני" ; 1; 0 ) ;0 )
+REF=="תחתון_גברי"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+EDGE3==PartFDrawing
+EDGE4==PartFDrawing
+[ISTK$FORM-32]
+
+[ISTK$FORM-33]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh) )
+L== ( IF ( BM == "כן" ; NMG_S2 * (HMG_S2*10+3)+4 ;NMG_S2 * (HMG_S2*10+3)+80+3+27 ) ) - 30
+B==D_S2*10-5-18
+A=== IF ( T_KO == "יפאני" ; 1 ; 0 )
+REF=="צד"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh
+[ISTK$FORM-33]
+
+[ISTK$FORM-34]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== ( IF ( BM == "כן" ; NMG_S2 * (HMG_S2*10+3)+4 ;NMG_S2 * (HMG_S2*10+3)+80+3+27 ) ) - 30
+B==D_S2*10-5
+A=== IF ( T_KO == "יפאני" ; 1 ; 0 )
+REF=="צד"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+[ISTK$FORM-34]
+
+[ISTK$FORM-35]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_S2*10-3-62
+A=== IF ( T_KO == "יפאני" ; 1 ; 0 ) And   IF ( BM  == "כן" ; 0 ;1 )
+REF=="תחתון"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+[ISTK$FORM-35]
+
+[ISTK$FORM-36]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh) )
+L==W_S2*10-3-67+15
+B==HMG_S2*10-30
+A== IF ( T_KO == "יפאני" ; NMG_S2-NMG_S2+1; 0 )
+REF=="מגירה"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-36]
+
+[ISTK$FORM-37]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L==W_S2*10-3-67+15
+B==HMG_S2*10
+A== IF ( T_KO == "יפאני" ; NMG_S2-1; 0 )
+REF=="מגירה"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-37]
+
+[ISTK$FORM-38]
+L==W_S2*10-3-62-25-32
+A== IF ( T_KO == "יפאני" ; NMG_S2*2 ; 0 )
+BEM3==PartFDrawing
+[ISTK$FORM-38]
+
+[ISTK$FORM-39]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_K*10-3
+B==D_K*10-2
+A== IF ( BM == "כן" ; 2 ; 1 )
+REF=="עליון"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+EDGE3==PartFDrawing
+EDGE4==PartFDrawing
+[ISTK$FORM-39]
+
+[ISTK$FORM-40]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh) )
+L== ( IF ( BM == "כן" ; NMG_K * (HMG_K*10+3)+4 ;NMG_K * (HMG_K*10+3)+80+3+27 ) ) - 30
+B==D_K*10-5-18
+REF=="צד"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh
+[ISTK$FORM-40]
+
+[ISTK$FORM-41]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== ( IF ( BM == "כן" ; NMG_K * (HMG_K*10+3)+4 ;NMG_K * (HMG_K*10+3)+80+3+27 ) ) - 30
+B==D_K*10-5
+REF=="צד"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+[ISTK$FORM-41]
+
+[ISTK$FORM-42]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_K*10-3-62
+A== IF ( BM == "כן" ; 0 ; 1 )
+REF=="תחתון"+"_"+T
+BEM3==PartFDrawing
+EDGE1==PartFDrawing
+[ISTK$FORM-42]
+
+[ISTK$FORM-43]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh) )
+L==W_K*10-3-67+15
+B==HMG_K*10-30
+A==NMG_K-NMG_K+1
+REF=="מגירה"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-43]
+
+[ISTK$FORM-44]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L==W_K*10-3-67+15
+B==HMG_K*10
+A==NMG_K-1
+REF=="מגירה"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-44]
+
+[ISTK$FORM-45]
+L==W_K*10-3-62-25-32
+A==NMG_K*2
+BEM3==PartFDrawing
+[ISTK$FORM-45]
+
+[ISTK$FORM-46]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2) )
+L==W_K*10-3-17-85-85-20-30
+REF=="מראה"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-46]
+
+[ISTK$FORM-47]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2) )
+L==IF ( NMG_K <3 ; 1450 ; 950 )
+REF=="מראה"+"_"+T
+BEM3==PartFDrawing
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-47]
+
+[ISTK$FORM-48]
+REF=="טואליט_"+T+"_"+T_KO
+BEM2== IF ( PartQty <> 0 ;"איסוף_קומודות" ; 0)
+BEM3==PartFDrawing
+[ISTK$FORM-48]
+
+[ISTK$FORM-49]
+REF=="מראה_"+T+"_"+ ( IF ( NMG_K <3 ; 1450 ; 950 ) ) / 10
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+[ISTK$FORM-49]
+
+[ISTK$FORM-50]
+REF=="שידה"+"_"+T
+BEM2== IF ( PartQty <> 0 ;"איסוף_קומודות" ; 0)
+BEM3==PartFDrawing
+[ISTK$FORM-50]
+
+[ISTK$FORM-51]
+[ISTK$FORM-51]
+
+[ISTK$FORM-52]
+[ISTK$FORM-52]
+
+[ISTK$FORM-53]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L==W_M*10+100
+B== IF ( TM == "מתרומם" ; H_M*10 ; H_M*10-210)
+A== IF ( HF == "1" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-53]
+
+[ISTK$FORM-54]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_M*10+100
+A== IF ( HF == "1" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-54]
+
+[ISTK$FORM-55]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==H_M*10-100
+A== IF ( HF == "1" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-55]
+
+[ISTK$FORM-56]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_M*10+55+10+5
+B== IF ( TM == "מתרומם" ;10*H_M1-6-99 ; 10*H_M1-105+100)
+A== IF ( HF == "1" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "חזית_"+T )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-56]
+
+[ISTK$FORM-57]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "1" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-57]
+
+[ISTK$FORM-58]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "1" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+BEM3==mat_out
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-58]
+
+[ISTK$FORM-59]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+10)
+B== IF ( TM == "מתרומם" ;295 ; 180)
+A== IF ( HF == "1" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-59]
+
+[ISTK$FORM-60]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+10)
+A== IF ( HF == "1" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+EDGE1==mat_out
+[ISTK$FORM-60]
+
+[ISTK$FORM-61]
+A== IF ( HF == "1" ;2 ; 0)/2
+REF== IF ( TM == "מתרומם" ; "מתרומם_משטח"+D_M +"_"+ W_M ; "משטח"+D_M +"_"+ W_M )
+BEM2== IF ( PartQty <> 0 ;"איסוף_משטחים" ; 0)
+[ISTK$FORM-61]
+
+[ISTK$FORM-62]
+[ISTK$FORM-62]
+
+[ISTK$FORM-63]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L==W_M*10+100
+B== IF ( TM == "מתרומם" ; H_M*10 ; H_M*10)
+A== IF ( HF == "2" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-63]
+
+[ISTK$FORM-64]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_M*10+100
+A== IF ( HF == "2" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-64]
+
+[ISTK$FORM-65]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==H_M*10-100
+A== IF ( HF == "2" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-65]
+
+[ISTK$FORM-66]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100-40)/2
+B== IF ( TM == "מתרומם" ;10*H_M1-6-99 ; 10*H_M1-105+0100)
+A== IF ( HF == "2" ;2; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "חזית_"+T )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-66]
+
+[ISTK$FORM-67]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "2" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-67]
+
+[ISTK$FORM-68]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "2" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+BEM3==mat_out
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-68]
+
+[ISTK$FORM-69]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+10)
+B== IF ( TM == "מתרומם" ;295 ; 180)
+A== IF ( HF == "2" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-69]
+
+[ISTK$FORM-70]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+10)
+A== IF ( HF == "2" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+EDGE1==mat_out
+[ISTK$FORM-70]
+
+[ISTK$FORM-71]
+A== IF ( HF == "2" ;2 ; 0)/2
+REF== IF ( TM == "מתרומם" ; "מתרומם_משטח"+D_M +"_"+ W_M ; "משטח"+D_M +"_"+ W_M )
+BEM2== IF ( PartQty <> 0 ;"איסוף_משטחים" ; 0)
+[ISTK$FORM-71]
+
+[ISTK$FORM-72]
+[ISTK$FORM-72]
+
+[ISTK$FORM-73]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L==(W_M*10+100)/2
+B== IF ( TM == "מתרומם" ; H_M*10 ; H_M*10)
+A== IF ( HF == "3" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-73]
+
+[ISTK$FORM-74]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100)/2
+A== IF ( HF == "3" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-74]
+
+[ISTK$FORM-75]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==H_M*10-100
+A== IF ( HF == "3" ;4 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-75]
+
+[ISTK$FORM-76]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100-40)/2
+B== IF ( TM == "מתרומם" ;10*H_M1-6-99 ; 10*H_M1-105+100)
+A== IF ( HF == "3" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "חזית_"+T )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-76]
+
+[ISTK$FORM-77]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh ) )
+L==(W_M*10+100-55)/2
+A== IF ( HF == "3" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-77]
+
+[ISTK$FORM-78]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L==(W_M*10+100-55)/2
+A== IF ( HF == "3" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+BEM3==mat_out
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-78]
+
+[ISTK$FORM-79]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+10)
+B== IF ( TM == "מתרומם" ;295 ; 180)
+A== IF ( HF == "3" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-79]
+
+[ISTK$FORM-80]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+10)
+A== IF ( HF == "3" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+EDGE1==mat_out
+[ISTK$FORM-80]
+
+[ISTK$FORM-81]
+A== IF ( HF == "3" ;2 ; 0)/2
+REF== IF ( TM == "מתרומם" ; "מתרומם_משטח"+D_M +"_"+ W_M ; "משטח"+D_M +"_"+ W_M )
+BEM2== IF ( PartQty <> 0 ;"איסוף_משטחים" ; 0)
+[ISTK$FORM-81]
+
+[ISTK$FORM-82]
+[ISTK$FORM-82]
+
+[ISTK$FORM-83]
+[ISTK$FORM-83]
+
+[ISTK$FORM-84]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L==(W_M*10+100)
+B== IF ( TM == "מתרומם" ; H_M*10-20 ; H_M*10-210)
+A== IF ( HF == "4" ;1; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-84]
+
+[ISTK$FORM-85]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_M*10+100
+A== IF ( HF == "4" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-85]
+
+[ISTK$FORM-86]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==H_M*10-100
+A== IF ( HF == "4" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-86]
+
+[ISTK$FORM-87]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "4" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-87]
+
+[ISTK$FORM-88]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "4" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+BEM3==mat_out
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-88]
+
+[ISTK$FORM-89]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100)-30
+B== IF ( TM == "מתרומם" ;10*H_M1-6 ; 10*H_M1-6+1)
+A== IF ( HF == "4" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "חזית_"+T+"_"+ mat_sh2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-89]
+
+[ISTK$FORM-90]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+20)
+B== IF ( TM == "מתרומם" ;295 ; 295)
+A== IF ( HF == "4" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-90]
+
+[ISTK$FORM-91]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+20)
+A== IF ( HF == "4" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-91]
+
+[ISTK$FORM-92]
+L==D_M*10+20-34
+A== IF ( HF == "4" ;4; 0)
+[ISTK$FORM-92]
+
+[ISTK$FORM-93]
+L==W_M*5+5-23
+A== IF ( HF == "4" ;4; 0)
+[ISTK$FORM-93]
+
+[ISTK$FORM-94]
+L==D_M*10+20
+B==W_M*5+5+2-25
+A== IF ( HF == "4" ;2; 0)
+[ISTK$FORM-94]
+
+[ISTK$FORM-95]
+A== IF ( HF == "4" ;2; 0)
+REF=="משטח_4הפרדה"+"_"+D_M +"_"+ (W_M/2-2)
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+[ISTK$FORM-95]
+
+[ISTK$FORM-96]
+[ISTK$FORM-96]
+
+[ISTK$FORM-97]
+[ISTK$FORM-97]
+
+[ISTK$FORM-98]
+[ISTK$FORM-98]
+
+[ISTK$FORM-99]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L==(W_M*10+100)
+B== IF ( TM == "מתרומם" ; H_M*10-20 ; H_M*10-210)
+A== IF ( HF == "5" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-99]
+
+[ISTK$FORM-100]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==W_M*10+100
+A== IF ( HF == "5" ;1 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-100]
+
+[ISTK$FORM-101]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==H_M*10-100
+A== IF ( HF == "5" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-101]
+
+[ISTK$FORM-102]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "5" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-102]
+
+[ISTK$FORM-103]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "5" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+BEM3==mat_out
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-103]
+
+[ISTK$FORM-104]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100-40)/2
+B== IF ( TM == "מתרומם" ;10*H_M1-6 ; 10*H_M1-5)
+A== IF ( HF == "5" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "חזית_"+T+"_"+ mat_sh2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-104]
+
+[ISTK$FORM-105]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+20)
+B== IF ( TM == "מתרומם" ;295 ;295)
+A== IF ( HF == "5" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-105]
+
+[ISTK$FORM-106]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+20)
+A== IF ( HF == "5" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-106]
+
+[ISTK$FORM-107]
+L==D_M*10+20-34
+A== IF ( HF == "5" ;4; 0)
+[ISTK$FORM-107]
+
+[ISTK$FORM-108]
+L==W_M*5+5-23
+A== IF ( HF == "5" ;4; 0)
+[ISTK$FORM-108]
+
+[ISTK$FORM-109]
+L==D_M*10+20
+B==W_M*5+5+2-25
+A== IF ( HF == "5" ;2; 0)
+[ISTK$FORM-109]
+
+[ISTK$FORM-110]
+A== IF ( HF == "5" ;2; 0)
+REF=="משטח_5הפרדה"+"_"+D_M +"_"+ (W_M/2-2)
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+[ISTK$FORM-110]
+
+[ISTK$FORM-111]
+[ISTK$FORM-111]
+
+[ISTK$FORM-112]
+[ISTK$FORM-112]
+
+[ISTK$FORM-113]
+[ISTK$FORM-113]
+
+[ISTK$FORM-114]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L==(W_M*10+100)/2
+B== IF ( TM == "מתרומם" ; H_M*10-20 ; H_M*10-210)
+A== IF ( HF == "6" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-114]
+
+[ISTK$FORM-115]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100)/2
+A== IF ( HF == "6" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-115]
+
+[ISTK$FORM-116]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==H_M*10-100
+A== IF ( HF == "6" ;4; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-116]
+
+[ISTK$FORM-117]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh ) )
+L==(W_M*10+100-55)/2
+A== IF ( HF == "6" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-117]
+
+[ISTK$FORM-118]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L==(W_M*10+100-55)/2
+A== IF ( HF == "6" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+BEM3==mat_out
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-118]
+
+[ISTK$FORM-119]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100-40)/2
+B== IF ( TM == "מתרומם" ;10*H_M1-6 ; 10*H_M1-5)
+A== IF ( HF == "6" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "חזית_"+T+"_"+ mat_sh2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-119]
+
+[ISTK$FORM-120]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+20)
+B== IF ( TM == "מתרומם" ;295 ; 295)
+A== IF ( HF == "6" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-120]
+
+[ISTK$FORM-121]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+20)
+A== IF ( HF == "6" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-121]
+
+[ISTK$FORM-122]
+L==D_M*10+20-34
+A== IF ( HF == "6" ;4; 0)
+[ISTK$FORM-122]
+
+[ISTK$FORM-123]
+L==W_M*5+5-23
+A== IF ( HF == "6" ;4; 0)
+[ISTK$FORM-123]
+
+[ISTK$FORM-124]
+L==D_M*10+20
+B==W_M*5+5+2-25
+A== IF ( HF == "6" ;2; 0)
+[ISTK$FORM-124]
+
+[ISTK$FORM-125]
+A== IF ( HF == "5" ;2; 0)
+REF=="משטח_5הפרדה"+"_"+D_M +"_"+ (W_M/2-2)
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+[ISTK$FORM-125]
+
+[ISTK$FORM-126]
+[ISTK$FORM-126]
+
+[ISTK$FORM-127]
+[ISTK$FORM-127]
+
+[ISTK$FORM-128]
+[ISTK$FORM-128]
+
+[ISTK$FORM-129]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L==(W_M*10+100)/2
+B== IF ( TM == "מתרומם" ; H_M*10-20 ; H_M*10-210)
+A== IF ( HF == "7" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-129]
+
+[ISTK$FORM-130]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100)/2
+A== IF ( HF == "7" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-130]
+
+[ISTK$FORM-131]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==H_M*10-100
+A== IF ( HF == "7" ;4 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "ראש_"+T+"_"+ mat_sh2+"_"+mat_sh )
+[ISTK$FORM-131]
+
+[ISTK$FORM-132]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "7" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh
+EDGE1==mat_sh
+EDGE2==mat_sh
+EDGE3==mat_sh
+EDGE4==mat_sh
+[ISTK$FORM-132]
+
+[ISTK$FORM-133]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_sh2 ) )
+L== ( W_M*10+100 - 27 ) / 2
+A== IF ( HF == "7" ;2 ; 0)
+REF=="ראש_"+T+"_"+mat_sh2
+BEM3==mat_out
+EDGE1==mat_sh2
+EDGE2==mat_sh2
+EDGE3==mat_sh2
+EDGE4==mat_sh2
+[ISTK$FORM-133]
+
+[ISTK$FORM-134]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"28_"+mat_out ) )
+L==(W_M*10+100-40)/2
+B== IF ( TM == "מתרומם" ;10*H_M1-6 ; 10*H_M1-5)
+A== IF ( HF == "7" ;2 ; 0)
+REF== IF ( TM == "מתרומם" ; "מתרומם_"+T+"_"+ mat_sh2 ; "חזית_"+T+"_"+ mat_sh2 )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+EDGE3==mat_out
+EDGE4==mat_out
+[ISTK$FORM-134]
+
+[ISTK$FORM-135]
+MAT== IF ( ts == "28" ;mat_g+"28_"+mat_out ;  IF (mat_g+"_"+mat_out == "סנדוויץ_לבן" ; "סנדוויץ_לבןן" ;  mat_g+"_"+mat_out ) )
+L== IF ( TM == "מתרומם" ;10*D_M+10+15 ; 10*D_M+20)
+B== IF ( TM == "מתרומם" ;295 ; 295)
+A== IF ( HF == "7" ;4 ; 0)
+REF== IF ( TM == "מתרומם" ; "צרגות"+"_"+TM ; "צרגות" )
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+BEM3==PartFDrawing
+EDGE1==mat_out
+[ISTK$FORM-135]
+
+[ISTK$FORM-136]
+L==D_M*10-32+18
+A== IF ( HF == "7" ;4; 0)
+[ISTK$FORM-136]
+
+[ISTK$FORM-137]
+L==W_M*5+5
+A== IF ( HF == "7" ;4; 0)
+[ISTK$FORM-137]
+
+[ISTK$FORM-138]
+L==D_M*10+20
+B==W_M*5+5
+A== IF ( HF == "7" ;2; 0)
+[ISTK$FORM-138]
+
+[ISTK$FORM-139]
+A== IF ( HF == "7" ;2; 0)
+REF=="משטח_6הפרדה"+"_"+D_M +"_"+ (W_M/2)
+BEM2== IF ( PartQty <> 0 ;"איסוף_מיטות" ; 0)
+[ISTK$FORM-139]
+
+[ISTKALG]
+VEELVOUD=1
+DATUM=240112
+EXT01=A
+EXT08=611_8005
+DRAWING=לבן
+[ISTKALG]
+
+[ISTKALG$FORM]
+ALGREF==note1
+VEELVOUD==note2
+EXT08==mat_sh+"_"+mat_sh2
+DRAWING==mat_out
+[ISTKALG$FORM]
+
+[VRAGEN-1]
+NAAM=T
+VRAAG=שם_מוצר
+DEFAULT=ענבל
+[VRAGEN-1]
+
+[VRAGEN-2]
+NAAM=note1
+VRAAG=לקוח_מס הזמנה
+[VRAGEN-2]
+
+[VRAGEN-3]
+NAAM=note2
+VRAAG=מכפיל
+DEFAULT=1
+[VRAGEN-3]
+
+[VRAGEN-4]
+NAAM=mat_out
+VRAAG=חומר חוץ?
+DEFAULT=לבן
+[VRAGEN-4]
+
+[VRAGEN-5]
+NAAM=mat_sh
+VRAAG=שילוב1
+DEFAULT=611
+[VRAGEN-5]
+
+[VRAGEN-6]
+NAAM=mat_sh2
+VRAAG=שילוב2
+DEFAULT=8005
+[VRAGEN-6]
+
+[VRAGEN-7]
+NAAM=YAD
+VRAAG=סוג_ידיות_שידות
+DEFAULT=1
+[VRAGEN-7]
+
+[VRAGEN-8]
+NAAM=YAD1
+VRAAG=סוג_ידיות_טואליט
+DEFAULT=2
+[VRAGEN-8]
+
+[VRAGEN-9]
+NAAM=W_M
+VRAAG=רוחב המיטה??
+TYPE=5
+DEFAULT=160
+[VRAGEN-9]
+
+[VRAGEN-10]
+NAAM=D_M
+VRAAG=עומק_המיטה??
+TYPE=5
+DEFAULT=190
+[VRAGEN-10]
+
+[VRAGEN-11]
+NAAM=H_M
+VRAAG=גובה המיטה??
+TYPE=5
+DEFAULT=100
+[VRAGEN-11]
+
+[VRAGEN-12]
+NAAM=H_M1
+VRAAG=גובה החזית??
+TYPE=5
+DEFAULT=40
+[VRAGEN-12]
+
+[VRAGEN-13]
+NAAM=HF
+VRAAG=הפרדה!!
+DEFAULT=0
+VOORWAARDE=0/1/2/3/4/5/6
+[VRAGEN-13]
+
+[VRAGEN-14]
+NAAM=TMM
+VRAAG=סוג_מיטה
+DEFAULT=0
+VOORWAARDE=0רגיל_1מתרומם
+[VRAGEN-14]
+
+[VRAGEN-15]
+NAAM=BM
+VRAAG=במה!!!!
+DEFAULT=כן
+VOORWAARDE=כן/לא
+[VRAGEN-15]
+
+[VRAGEN-16]
+NAAM=W_S1
+VRAAG=רוחב שידה???
+TYPE=5
+DEFAULT=50
+[VRAGEN-16]
+
+[VRAGEN-17]
+NAAM=D_S1
+VRAAG=עומק_שדה
+DEFAULT=40
+[VRAGEN-17]
+
+[VRAGEN-18]
+NAAM=NMG_S1
+VRAAG=כמה מגירות בשידה??
+TYPE=5
+DEFAULT=2
+[VRAGEN-18]
+
+[VRAGEN-19]
+NAAM=HMG_S1
+VRAAG=גובה מגירה בשידה 1???
+TYPE=5
+DEFAULT=17
+[VRAGEN-19]
+
+[VRAGEN-20]
+[VRAGEN-20]
+
+[VRAGEN-21]
+NAAM=W_K
+VRAAG=רוחב קומודה???
+TYPE=5
+DEFAULT=84
+[VRAGEN-21]
+
+[VRAGEN-22]
+NAAM=D_K
+VRAAG=עומק קומודה ??
+TYPE=5
+DEFAULT=40
+[VRAGEN-22]
+
+[VRAGEN-23]
+NAAM=NMG_K
+VRAAG=כמה מגירות בקומודה??
+TYPE=5
+DEFAULT=4
+[VRAGEN-23]
+
+[VRAGEN-24]
+NAAM=HMG_K
+VRAAG=גובה מגירה בקומודה???
+TYPE=5
+DEFAULT=17
+[VRAGEN-24]
+
+[VRAGEN-25]
+[VRAGEN-25]
+
+[VRAGEN-26]
+[VRAGEN-26]
+
+[VRAGEN-27]
+NAAM=W_S2
+VRAAG=רוחב_שידה_גברית
+DEFAULT=50
+[VRAGEN-27]
+
+[VRAGEN-28]
+NAAM=D_S2
+VRAAG=עומק שידה _גברית??
+TYPE=5
+DEFAULT=40
+[VRAGEN-28]
+
+[VRAGEN-29]
+NAAM=NMG_S2
+VRAAG=כמה מגירות בשידה2??
+TYPE=5
+DEFAULT=5
+[VRAGEN-29]
+
+[VRAGEN-30]
+NAAM=HMG_S2
+VRAAG=גובה מגירה בשידה 2???
+TYPE=5
+DEFAULT=17
+[VRAGEN-30]
+
+[VRAGEN-31]
+[VRAGEN-31]
+
+[VRAGEN-32]
+VRAAG=כמה מגירות בקומודה??
+[VRAGEN-32]
+
+[VRAGEN-33]
+NAAM=WA
+VRAAG=איזור??
+DEFAULT=מרכז
+VOORWAARDE=גדי/מארק/מרכז/צפון
+[VRAGEN-33]
+
+[VRAGEN-34]
+NAAM=mat_g
+VRAAG=סוג החומר?
+DEFAULT=מדפ
+[VRAGEN-34]
+
+[VRAGEN-35]
+NAAM=mat_in
+VRAAG=חומר פנים?
+DEFAULT=לבן
+[VRAGEN-35]
+
+[VRAGEN-36]
+NAAM=mat_d
+VRAAG=חומר_דלתות?
+DEFAULT=מדפ
+[VRAGEN-36]
+
+[VRAGEN-37]
+NAAM=mat_sh1
+[VRAGEN-37]
+
+[VRAGEN-38]
+NAAM=hazm
+VRAAG=מס" הזמנה ??
+TYPE=5
+DEFAULT=0955
+[VRAGEN-38]
+
+[VRAGEN-39]
+NAAM=motsar
+VRAAG=שם מוצר??
+DEFAULT=אמיי
+[VRAGEN-39]
+
+[VRAGEN-40]
+NAAM=TM
+VRAAG=סוג_מיטה
+DEFAULT= 
+VOORWAARDE=מתרומם_רגיל
+[VRAGEN-40]
+
+[VRAGEN-41]
+NAAM=T_KO
+VRAAG=סוג_קומודה
+DEFAULT=רגיל
+VOORWAARDE=יפאני_רגיל
+[VRAGEN-41]
+
+[VRAGEN$FORM-1]
+[VRAGEN$FORM-1]
+
+[VRAGEN$FORM-2]
+[VRAGEN$FORM-2]
+
+[VRAGEN$FORM-3]
+[VRAGEN$FORM-3]
+
+[VRAGEN$FORM-4]
+[VRAGEN$FORM-4]
+
+[VRAGEN$FORM-5]
+[VRAGEN$FORM-5]
+
+[VRAGEN$FORM-6]
+[VRAGEN$FORM-6]
+
+[VRAGEN$FORM-7]
+[VRAGEN$FORM-7]
+
+[VRAGEN$FORM-8]
+[VRAGEN$FORM-8]
+
+[VRAGEN$FORM-9]
+[VRAGEN$FORM-9]
+
+[VRAGEN$FORM-10]
+[VRAGEN$FORM-10]
+
+[VRAGEN$FORM-11]
+[VRAGEN$FORM-11]
+
+[VRAGEN$FORM-12]
+[VRAGEN$FORM-12]
+
+[VRAGEN$FORM-13]
+[VRAGEN$FORM-13]
+
+[VRAGEN$FORM-14]
+[VRAGEN$FORM-14]
+
+[VRAGEN$FORM-15]
+[VRAGEN$FORM-15]
+
+[VRAGEN$FORM-16]
+[VRAGEN$FORM-16]
+
+[VRAGEN$FORM-17]
+[VRAGEN$FORM-17]
+
+[VRAGEN$FORM-18]
+[VRAGEN$FORM-18]
+
+[VRAGEN$FORM-19]
+[VRAGEN$FORM-19]
+
+[VRAGEN$FORM-20]
+[VRAGEN$FORM-20]
+
+[VRAGEN$FORM-21]
+[VRAGEN$FORM-21]
+
+[VRAGEN$FORM-22]
+[VRAGEN$FORM-22]
+
+[VRAGEN$FORM-23]
+[VRAGEN$FORM-23]
+
+[VRAGEN$FORM-24]
+[VRAGEN$FORM-24]
+
+[VRAGEN$FORM-25]
+[VRAGEN$FORM-25]
+
+[VRAGEN$FORM-26]
+[VRAGEN$FORM-26]
+
+[VRAGEN$FORM-27]
+[VRAGEN$FORM-27]
+
+[VRAGEN$FORM-28]
+[VRAGEN$FORM-28]
+
+[VRAGEN$FORM-29]
+[VRAGEN$FORM-29]
+
+[VRAGEN$FORM-30]
+[VRAGEN$FORM-30]
+
+[VRAGEN$FORM-31]
+[VRAGEN$FORM-31]
+
+[VRAGEN$FORM-32]
+[VRAGEN$FORM-32]
+
+[VRAGEN$FORM-33]
+[VRAGEN$FORM-33]
+
+[VRAGEN$FORM-34]
+[VRAGEN$FORM-34]
+
+[VRAGEN$FORM-35]
+DEFAULT== IF ( mat_g == "מדפ" ;  mat_out ;  "לבן" )
+[VRAGEN$FORM-35]
+
+[VRAGEN$FORM-36]
+DEFAULT== IF ( mat_g == "סנדוויץ" ; "מדפ" ; mat_g )
+[VRAGEN$FORM-36]
+
+[VRAGEN$FORM-37]
+[VRAGEN$FORM-37]
+
+[VRAGEN$FORM-38]
+[VRAGEN$FORM-38]
+
+[VRAGEN$FORM-39]
+[VRAGEN$FORM-39]
+
+[VRAGEN$FORM-40]
+DEFAULT== IF ( TMM == "1" ; "מתרומם" ; " " )
+[VRAGEN$FORM-40]
+
+[VRAGEN$FORM-41]
+[VRAGEN$FORM-41]
