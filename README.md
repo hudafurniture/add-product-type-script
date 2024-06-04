@@ -1,0 +1,1 @@
+# add-product-type-script
