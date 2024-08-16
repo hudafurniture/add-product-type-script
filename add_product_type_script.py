@@ -15,7 +15,7 @@ productTypeDict = {
     10: 'מיטה',
     11: 'מזנון',
     12: ' יח מגירות/שידת_טלווזיה',
-    100: 'חדר_שינה_שלם'
+    100: 'חדר_שינה_שלם',
 }
 
 
@@ -60,9 +60,13 @@ def main():
     #stk_dir = os.path.join(script_directory + "/stk_test")
     #------------------------------------------------
     #stk_directory = "C:/Ardis/younis/2024/Scripts/Add_Product_Type_Script/stk_test/"
+    #stk_directory = "C:/Ardis/younis/2024/Scripts/JOB_Madbeka_Script/Final Working Solution/2804L"
     stk_directory = "C:/Ardis/Data/Templates/"
+    updated_files_counter = 0
+    
     for root, dirs, files in os.walk(stk_directory):
         for file_name in files:
+            degemVragNum = 0
             if(file_name.lower().endswith(".stk")):
                 #print(file_name)
                 new_data = []
@@ -75,11 +79,20 @@ def main():
                     countVRAGENStreak = 0
                     productType = get_procut_type(file_name)
                     for i in range(len(filedata_arr)):
-                        if ("DEFAULT=" in filedata_arr[i] and "UITLEG=Don't Delete" in filedata_arr[i-1]):
-                            txtToFix_5 = "UITLEG=Don't Delete" + " - " + productTypeDict[productType]
-                            txtToFix_6 = "DEFAULT=" + str(productType)
-                            new_data.append(txtToFix_5)
-                            new_data.append(txtToFix_6)
+                        currentVragNum = 0
+                        if ("NAAM=degem" in filedata_arr[i] and not stop):   #if degem already exist update the values
+                            degemVragNum = currentVragNum
+                            new_data.append(filedata_arr[i])
+                            txtToUpdate_1 = "VRAAG=Product Type"
+                            txtToUpdate_2 = "TYPE=3"
+                            txtToUpdate_3 = "UITLEG=Don't Delete" + " - " + productTypeDict[productType]
+                            txtToUpdate_4 = "DEFAULT=" + str(productType)
+                            txtToUpdate_5 = "" if get_procut_type(file_name) == 0 else "Editable=0"
+                            new_data.append(txtToUpdate_1)
+                            new_data.append(txtToUpdate_2)
+                            new_data.append(txtToUpdate_3)
+                            new_data.append(txtToUpdate_4)
+                            new_data.append(txtToUpdate_5) if get_procut_type(file_name) != 0 else None
                             stop = True
                         elif "VRAGEN-" in filedata_arr[i]:
                             new_data.append(filedata_arr[i])
@@ -87,15 +100,16 @@ def main():
                             if countVRAGENStreak == 2:
                                 countVRAGENS += 1
                                 countVRAGENStreak = 0
+                            elif(countVRAGENStreak == 1):
+                                currentVragNum = filedata_arr[i].split("-")[1].strip("]")
                         elif("VRAGEN$FORM" in filedata_arr[i] and not stop):
-                            #new_data.append("")
                             txtToAdd_1 = "[VRAGEN-" + str(countVRAGENS + 1)+"]"
                             txtToAdd_2 = "NAAM=degem"
                             txtToAdd_3 = "VRAAG=Product Type"
                             txtToAdd_4 = "TYPE=3"
                             txtToAdd_5 = "UITLEG=Don't Delete" + " - " + productTypeDict[productType]
                             txtToAdd_6 = "DEFAULT=" + str(productType)
-                            txtToAdd_7 = "Editable=0"
+                            txtToAdd_7 = "" if get_procut_type(file_name) == 0 else "Editable=0"
                             txtToAdd_8 = txtToAdd_1
                             new_data.append(txtToAdd_1)
                             new_data.append(txtToAdd_2)
@@ -103,14 +117,17 @@ def main():
                             new_data.append(txtToAdd_4)
                             new_data.append(txtToAdd_5)
                             new_data.append(txtToAdd_6)
-                            new_data.append(txtToAdd_7)
+                            new_data.append(txtToAdd_7) if get_procut_type(file_name) != 0 else None
                             new_data.append(txtToAdd_8)
                             new_data.append("")
                             countVRAGENS += 1
+                            new_data.append(filedata_arr[i])
                             stop = True
-                            new_data.append(filedata_arr[i])
+                            currentVragNum = countVRAGENS
+                            degemVragNum = currentVragNum
                         else:
-                            new_data.append(filedata_arr[i])
+                            if(not(countVRAGENStreak==1 and degemVragNum == currentVragNum and stop)):
+                                new_data.append(filedata_arr[i])
                     if(countVRAGENS == 0):  
                         txtToAdd_1 = "[VRAGEN-" + str(countVRAGENS + 1)+"]"
                         txtToAdd_2 = "NAAM=degem"
@@ -118,7 +135,7 @@ def main():
                         txtToAdd_4 = "TYPE=3"
                         txtToAdd_5 = "UITLEG=Don't Delete" + " - " + productTypeDict[productType]
                         txtToAdd_6 = "DEFAULT=" + str(productType)
-                        txtToAdd_7 = "Editable=0"
+                        txtToAdd_7 = "" if get_procut_type(file_name) == 0 else "Editable=0"
                         txtToAdd_8 = txtToAdd_1
                         new_data.append(txtToAdd_1)
                         new_data.append(txtToAdd_2)
@@ -126,7 +143,7 @@ def main():
                         new_data.append(txtToAdd_4)
                         new_data.append(txtToAdd_5)
                         new_data.append(txtToAdd_6)
-                        new_data.append(txtToAdd_7)
+                        new_data.append(txtToAdd_7) if get_procut_type(file_name) != 0 else None
                         new_data.append(txtToAdd_8)
                         new_data.append("")
                         countVRAGENS += 1      
@@ -134,10 +151,15 @@ def main():
   
                 print(file_name + " === " + str(countVRAGENS))            
                 with open(file_path, 'w') as file:
+                    updated_files_counter += 1
                     file.write('\n'.join(new_data))
                     
-
-
+    
+    
+    print("-----------------------------------------------------------------")        
+    print("-----------------------------------------------------------------")        
+    print("Number of files updated: " , updated_files_counter)     
+    input("Press enter to exit;")
 
 
 
